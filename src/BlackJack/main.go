@@ -1,5 +1,0 @@
-package BlackJack
-
-func main()  {
-
-}
